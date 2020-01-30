@@ -1,0 +1,7 @@
+E:\Labweek18- Build and Config\Labweek18- Build and Config\bin\Debug\Labweek18- Build and Config.exe.config
+E:\Labweek18- Build and Config\Labweek18- Build and Config\bin\Debug\Labweek18- Build and Config.exe
+E:\Labweek18- Build and Config\Labweek18- Build and Config\bin\Debug\Labweek18- Build and Config.pdb
+E:\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.csprojAssemblyReference.cache
+E:\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.csproj.CoreCompileInputs.cache
+E:\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.exe
+E:\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.pdb
