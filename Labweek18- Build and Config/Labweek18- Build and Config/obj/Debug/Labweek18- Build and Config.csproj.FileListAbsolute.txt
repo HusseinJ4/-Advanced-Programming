@@ -5,3 +5,12 @@ E:\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- 
 E:\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.csproj.CoreCompileInputs.cache
 E:\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.exe
 E:\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.pdb
+E:\Week18-BuildingConfiguringAndDeploying\Labweek18- Build and Config\Labweek18- Build and Config\bin\Debug\Labweek18- Build and Config.exe.config
+E:\Week18-BuildingConfiguringAndDeploying\Labweek18- Build and Config\Labweek18- Build and Config\bin\Debug\Labweek18- Build and Config.exe
+E:\Week18-BuildingConfiguringAndDeploying\Labweek18- Build and Config\Labweek18- Build and Config\bin\Debug\Labweek18- Build and Config.pdb
+E:\Week18-BuildingConfiguringAndDeploying\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.csprojAssemblyReference.cache
+E:\Week18-BuildingConfiguringAndDeploying\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.csproj.CoreCompileInputs.cache
+E:\Week18-BuildingConfiguringAndDeploying\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.exe
+E:\Week18-BuildingConfiguringAndDeploying\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.pdb
+E:\Week18-BuildingConfiguringAndDeploying\Labweek18- Build and Config\Labweek18- Build and Config\bin\Debug\Colorful.Console.dll
+E:\Week18-BuildingConfiguringAndDeploying\Labweek18- Build and Config\Labweek18- Build and Config\obj\Debug\Labweek18- Build and Config.csproj.CopyComplete
